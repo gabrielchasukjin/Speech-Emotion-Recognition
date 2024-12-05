@@ -2,7 +2,7 @@
 
 This project aims to classify human emotions from speech using machine learning models. Developed as part of the Halıcıoğlu Data Science Institute Undergraduate Research Scholarship, this system processes audio clips, extracts meaningful features, and applies advanced machine learning techniques to achieve accurate emotion classification.
 
-![Framework](ser.png)
+![Framework](SER.png)
 
 ## Overview
 The SER system processes speech data to classify emotions such as happiness, sadness, anger, and neutrality. By leveraging state-of-the-art machine learning techniques and feature engineering, the project achieved **86% accuracy** on the test dataset.
